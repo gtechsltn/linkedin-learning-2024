@@ -1,5 +1,7 @@
 # Tổng cộng trăm ngàn tương tác trên Linkedin trong năm qua, chỉ trong 1 bài viết. 
 
+https://github.com/gtechsltn/linkedin-learning-2024/blob/master/Linkedin_Learning_2024.pdf
+
 Kiến thức giờ đây tìm không thiếu, những lớp chuyên gia lão làng đầy kinh nghiệm cũng rất nhiều. 
 
 Nhưng,
